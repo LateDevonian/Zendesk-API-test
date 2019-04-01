@@ -1,0 +1,6 @@
+account:
+ url: 'https://z3ntestframework.zendesk.com'
+ username: ''
+ pasword: ''
+ env: 'Test'
+ auth: 'Basic d29ya3Nob3BhZG1pbkBleGFtcGxlLmNvbTphZG1pbg=='
